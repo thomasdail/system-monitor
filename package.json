@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Dail",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasdail/system-monitor"
+  },
   "license": "ISC",
   "dependencies": {
     "ps-list": "^6.1.0"
